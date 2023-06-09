@@ -15,3 +15,38 @@ I've been going about this kind of at random, and I'm not too impressed with the
 Another one of the big things that has been stopping me is that I want things to be "perfect" rather than good enough to make them official or feel like something is "worth it". 
 
 So I'm going to change my thinking and go about making small incremental improvements.
+
+
+# Topics
+
+I have a few topics that I'm interested in on my developer journey, I'll just list them as my folders in my bookmarks
+
+### Java
+
+I'm learning Java because it seems to be the lingua-franca of the software world (when it isn't python am.i.r?), when it comes to more serious topics of software development like DSA (Data structures and algorithms), design patterns and UML. Like most people I don't really care for Java. But like most people as you learn a language it grows on you.
+
+
+### Learning Platforms
+
+There are enourmous amout of platforms for learning just about anything these days, but software learning platforms have exploded in popularity lately and yes I'm including bootcamps and MOOCS (Massive Open Online Courses). 
+
+Where do I start?
+
+App Academy
+Odin Project
+Udemy
+Udacity
+Coursera
+MIT Open Courseware
+FreeCodeCamp
+DataCamp
+DataQuest
+Python for Everyone
+FrontEnd Masters
+
+
+and it just goes on for days... Anyway there are a lot of options and not all courses are created equal. Like you'd expect theres are low cost high quality content and high cost low quality content, and everything in between. When you're learning its hard to tell where you should spend your time and money. I don't have an answer but I do have opinions about these things.
+
+
+
+
