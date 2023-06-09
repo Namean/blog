@@ -63,6 +63,11 @@ So the problem that I'm having is context switching, where when I get bored with
 Which leads me into another topic of low spec. Meaning that I have small amount of computing and mental resources, how can I make the most of that.
 
 
+Right now I have things spread across, two machines, and cloud storage (Google drive)
+
+I have multiple courses, some of them have deadlines and other do not. Some of the courses I don't have the system resources to take it in the traditional sense. But I may have a work around for that.
+
+
 
 
 

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+date_string=$(date +%m-%d-%y).md
+internal_date_string=$(date)
+#echo $date_string
+touch $date_string
+echo $internal_date_string >> $date_string
