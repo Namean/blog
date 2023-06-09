@@ -45,7 +45,29 @@ Python for Everyone
 FrontEnd Masters
 
 
-and it just goes on for days... Anyway there are a lot of options and not all courses are created equal. Like you'd expect theres are low cost high quality content and high cost low quality content, and everything in between. When you're learning its hard to tell where you should spend your time and money. I don't have an answer but I do have opinions about these things.
+and it just goes on for days... Anyway there are a lot of options and not a courses are created equal. Like you'd expect theres are low cost high quality content and high cost low quality content, and everything in between. When you're learning its hard to tell where you should spend your time and money. I don't have an answer but I do have opinions about these things. 
+
+Not that I think any of these are bad, it just depends on what your goals are, and my goals have changed over the years. I started writing software as a means to solve problems for myself, which has evolved into getting a professional career into writing software, as my personal goal post has moved due to my needs and the software needing to be more complex as a result.
+
+
+## Organization
+
+
+So I want to be able to capture what I'm doing on a daily basis, just because I might be interested in something that I was doing earlier later. Second so I can see where it is I'm spending my time, and on what in particular.
+
+Another thing I'm hoping the blog will help with is making progress on my courses that I've purchased and others that I feel would be a good investment of my time.
+
+So the problem that I'm having is context switching, where when I get bored with something I'll go off and just do something else. Which may involve consuming all of the computing and mental resources that I have available.
+
+
+Which leads me into another topic of low spec. Meaning that I have small amount of computing and mental resources, how can I make the most of that.
+
+
+
+
+
+
+
 
 
 
