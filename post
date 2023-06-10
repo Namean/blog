@@ -1,8 +1,11 @@
 #!/bin/bash
 
-
+current_post=*[0-9][0-9].md
 date_string=$(date +%m-%d-%y).md
 internal_date_string=$(date)
+
 #echo $date_string
+echo moving current post: $current_post to directory ./drafts
+mv $current_post ./drafts
 touch $date_string
 echo $internal_date_string >> $date_string
