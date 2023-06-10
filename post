@@ -8,4 +8,4 @@ internal_date_string=$(date)
 echo moving current post: $current_post to directory ./drafts
 mv $current_post ./drafts
 touch $date_string
-echo $internal_date_string >> $date_string
+echo $internal_date_string >> $current_post
